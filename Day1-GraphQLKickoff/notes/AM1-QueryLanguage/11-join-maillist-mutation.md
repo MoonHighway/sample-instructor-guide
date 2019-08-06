@@ -9,4 +9,4 @@ mutation {
 }
 ```
 
-[<< prev](https://github.com/MoonHighway/curriculum/blob/master/GraphQL/Day1-GraphQLKickoff/notes/AM1-QueryLanguage/10-vote-mutation-extras.md) | [next >>](https://github.com/MoonHighway/curriculum/blob/master/GraphQL/Day1-GraphQLKickoff/notes/AM1-QueryLanguage/12-vote-subscription.md)
+[<< prev](https://github.com/MoonHighway/sample-instructor-guide/blob/master/GraphQL/Day1-GraphQLKickoff/notes/AM1-QueryLanguage/10-vote-mutation-extras.md) | [next >>](https://github.com/MoonHighway/sample-instructor-guide/blob/master/GraphQL/Day1-GraphQLKickoff/notes/AM1-QueryLanguage/12-vote-subscription.md)

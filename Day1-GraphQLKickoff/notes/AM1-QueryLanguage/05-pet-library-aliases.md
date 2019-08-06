@@ -17,4 +17,4 @@ query {
 }
 ```
 
-[<< prev](https://github.com/MoonHighway/curriculum/blob/master/GraphQL/Day1-GraphQLKickoff/notes/AM1-QueryLanguage/04-pet-library-args.md) | [next >>](https://github.com/MoonHighway/curriculum/blob/master/GraphQL/Day1-GraphQLKickoff/notes/AM1-QueryLanguage/06-pet-library-variables.md)
+[<< prev](https://github.com/MoonHighway/sample-instructor-guide/blob/master/GraphQL/Day1-GraphQLKickoff/notes/AM1-QueryLanguage/04-pet-library-args.md) | [next >>](https://github.com/MoonHighway/sample-instructor-guide/blob/master/GraphQL/Day1-GraphQLKickoff/notes/AM1-QueryLanguage/06-pet-library-variables.md)

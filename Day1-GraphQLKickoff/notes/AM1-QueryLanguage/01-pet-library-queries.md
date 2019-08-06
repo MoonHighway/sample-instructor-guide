@@ -24,4 +24,4 @@ query {
 }
 ```
 
-[<< prev](https://github.com/MoonHighway/curriculum/blob/master/GraphQL/Day1-GraphQLKickoff/notes/AM1-QueryLanguage/README.md) | [next >>](https://github.com/MoonHighway/curriculum/blob/master/GraphQL/Day1-GraphQLKickoff/notes/AM1-QueryLanguage/02-pet-library-enums.md)
+[<< prev](https://github.com/MoonHighway/sample-instructor-guide/blob/master/GraphQL/Day1-GraphQLKickoff/notes/AM1-QueryLanguage/README.md) | [next >>](https://github.com/MoonHighway/sample-instructor-guide/blob/master/GraphQL/Day1-GraphQLKickoff/notes/AM1-QueryLanguage/02-pet-library-enums.md)
