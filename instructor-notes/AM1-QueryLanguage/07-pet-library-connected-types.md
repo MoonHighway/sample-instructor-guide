@@ -44,4 +44,4 @@ query {
 }
 ```
 
-[<< prev](https://github.com/MoonHighway/sample-instructor-guide/blob/master/Day1-GraphQLKickoff/notes/AM1-QueryLanguage/06-pet-library-variables.md) | [next >>](https://github.com/MoonHighway/sample-instructor-guide/blob/master/Day1-GraphQLKickoff/notes/AM1-QueryLanguage/08-pet-library-operation-names.md)
+[<< prev](https://github.com/MoonHighway/sample-instructor-guide/blob/master/instructor-notes/AM1-QueryLanguage/06-pet-library-variables.md) | [next >>](https://github.com/MoonHighway/sample-instructor-guide/blob/master/instructor-notes/AM1-QueryLanguage/08-pet-library-operation-names.md)

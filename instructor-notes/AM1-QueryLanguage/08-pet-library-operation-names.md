@@ -68,4 +68,4 @@ query PetPage {
 }
 ```
 
-[<< prev](https://github.com/MoonHighway/sample-instructor-guide/blob/master/Day1-GraphQLKickoff/notes/AM1-QueryLanguage/07-pet-library-connected-types.md) | [next >>](https://github.com/MoonHighway/sample-instructor-guide/blob/master/Day1-GraphQLKickoff/notes/AM1-QueryLanguage/09-vote-mutation.md)
+[<< prev](https://github.com/MoonHighway/sample-instructor-guide/blob/master/instructor-notes/AM1-QueryLanguage/07-pet-library-connected-types.md) | [next >>](https://github.com/MoonHighway/sample-instructor-guide/blob/master/instructor-notes/AM1-QueryLanguage/09-vote-mutation.md)

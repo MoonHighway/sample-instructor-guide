@@ -4,7 +4,7 @@
 
 - [ ] Outline on Board
 - [ ] Put [Slides on the Screen](https://slides.com/moonhighway/graphql-intro/)
-- [ ] Notes On iPad
+- [ ] instructor-notes On iPad
 - [ ] Slow Down
 - [ ] Face Forward
 
@@ -12,4 +12,4 @@
 
 **Time: 20 minutes ⏰**
 
-[next >>](https://github.com/MoonHighway/sample-instructor-guide/blob/master/Day1-GraphQLKickoff/notes/AM1-QueryLanguage/01-pet-library-queries.md)
+[next >>](https://github.com/MoonHighway/sample-instructor-guide/blob/master/instructor-notes/AM1-QueryLanguage/01-pet-library-queries.md)
